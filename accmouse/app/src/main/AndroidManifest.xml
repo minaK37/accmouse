@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="accmouse"
+    android:versionCode="10"
+    android:versionName="1" >
+
+    <uses-sdk android:minSdkVersion="7" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" /> 
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="accmouse" >
+        <activity
+            android:label="accmouse"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:name="accmouse.MainActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="@string/manualConnectString"
+            android:theme="@android:style/Theme.Dialog"
+            android:name="accmouse.ManualConnectActivity" >
+        </activity>
+
+
+        <activity
+        	android:label="@string/preferencesString"
+        	android:name="accmouse.Preferences"
+        	android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen"
+        	android:exported="true">
+        </activity>
+    </application>
+
+</manifest>

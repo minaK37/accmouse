@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Jul 06 12:28:34 JST 2017
+1.base=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.xml
+2.base=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=C\:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\manuallyconnect.xml

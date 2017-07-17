@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 49,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 49,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 64,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 64,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 36,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 36,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 57,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 57,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 43,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 43,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 60,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 60,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 57,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\accmouse\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 57,
+                        "endOffset": 275
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 49,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 49,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 64,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 64,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 36,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 36,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 57,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 57,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 43,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 43,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 60,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 60,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 57,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "C:\\Users\\MinaK\\Documents\\masuilab\\Wifi-Mouse-master\\AccelerometerMouse-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 57,
+                        "endOffset": 275
+                    }
+                }
+            }
+        ]
+    }
+]

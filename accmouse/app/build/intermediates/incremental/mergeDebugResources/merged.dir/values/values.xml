@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accelemeter Mouse</string>
+    <string name="connectString">Connect</string>
+    <string name="manualConnectString">Manually Connect</string>
+    <string name="period">.</string>
+    <string name="preferencesString">Preferences</string>
+    <string name="sendString">Send</string>
+    <string name="serverIpString">Server IP Address</string>
+    <string name="serverPortString">Server Port </string>
+</resources>

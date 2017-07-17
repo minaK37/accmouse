@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MinaK\Documents\masuilab\Wifi-Mouse-master\AccelerometerMouse-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\MinaK\Documents\masuilab\Wifi-Mouse-master\AccelerometerMouse-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_68a452a96c5edd91c73eea5c65437e45013d95eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MinaK\Documents\masuilab\Wifi-Mouse-master\AccelerometerMouse-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="256fe1b206a01c28f4284860c84cc335b431e61c">
+        <dex dex="C:\Users\MinaK\Documents\masuilab\Wifi-Mouse-master\AccelerometerMouse-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_885c4c2e89bc848cebafc14d464d10edc5aaaaff\classes.dex" />
+    </item>
+
+</items>
